@@ -73,7 +73,10 @@ int main()
 ```
 
 ## OUTPUT:
-[**Click to View Output (PDF)**](https://github.com/user-attachments/files/23568151/Screenshot.2025-10-10.142426.pdf)
+
+![Screenshot 2025-10-10 142426_page-0001](https://github.com/user-attachments/assets/5bfabfbe-0299-4664-9002-4221d0ce72f8)
+
+
 
 ## RESULT:
 The Diffie–Hellman Key Exchange algorithm was implemented and executed successfully, generating a shared secret key for both parties.
